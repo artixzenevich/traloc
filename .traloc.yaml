@@ -1,0 +1,19 @@
+languages:
+  english: en
+  russian: ru
+  german: de
+  french: fr
+  spanish: es
+  italian: it
+  portuguese: pt
+  chinese: zh
+  japanese: ja
+  korean: ko
+  ukrainian: uk
+  polish: pl
+  dutch: nl
+  turkish: tr
+  arabic: ar
+
+default_model: translategemma:4b
+chunk_size: 3500
